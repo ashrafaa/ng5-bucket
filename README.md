@@ -1,5 +1,6 @@
 # Ng5
 
+Go to bucket: https://ashrafaa.github.io/ng5-bucket/dist/index.html
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
 ## Development server
